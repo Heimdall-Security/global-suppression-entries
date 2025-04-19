@@ -1,7 +1,7 @@
 [
-    {"suppressionEntryId": "", "suppressionEntryType":"SuppressionEntryType.EMAIL", "value":"mayank.soni@mayanksoni.tech", "suppressionReason":"BOUNCE"},
-    {"suppressionEntryId": "", "suppressionEntryType":"SuppressionEntryType.EMAIL_DOMMAIN", "value":"mayanksoni.tech", "suppressionReason":"BOUNCE"},
-    {"suppressionEntryId": "", "suppressionEntryType":"SuppressionEntryType.EMAIL", "value":"mayank.soni@mayanksoni.tech", "suppressionReason":"BOUNCE"},
-    {"suppressionEntryId": "", "suppressionEntryType":"SuppressionEntryType.EMAIL", "value":"mayank.soni@mayanksoni.tech", "suppressionReason":"BOUNCE"},
-    {"suppressionEntryId": "", "suppressionEntryType":"SuppressionEntryType.EMAIL", "value":"mayank.soni@mayanksoni.tech", "suppressionReason":"BOUNCE"}
+    {"suppressionEntryId": "", "suppressionEntryType":"EMAIL", "value":"mayank.soni@mayanksoni.tech", "suppressionReason":"BOUNCE"},
+    {"suppressionEntryId": "", "suppressionEntryType":"EMAIL_DOMAIN", "value":"mayanksoni.tech", "suppressionReason":"BOUNCE"},
+    {"suppressionEntryId": "", "suppressionEntryType":"EMAIL", "value":"mayank.soni@mayanksoni.tech", "suppressionReason":"BOUNCE"},
+    {"suppressionEntryId": "", "suppressionEntryType":"EMAIL", "value":"mayank.soni@mayanksoni.tech", "suppressionReason":"BOUNCE"},
+    {"suppressionEntryId": "", "suppressionEntryType":"EMAIL", "value":"mayank.soni@mayanksoni.tech", "suppressionReason":"BOUNCE"}
 ]
